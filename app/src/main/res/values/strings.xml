@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">p1</string>
+    <string name="Titulo"> Mi primera aplicacion Android </string>
+    <string name="nombre"> Brandon Miguel Marquez Hernandez </string>
+    <string name="grupo"> 7S11 </string>
+    <string name="descripcion"> esta es la primera plicacion donse se utilizan imagenes y fondo de color </string>
+    <string name="tesoem">logo tesoem</string>
+    <string name="edomex">logo edomex</string>
+</resources>
